@@ -1,2 +1,2 @@
-# SublimeGenerateCompletionListHubdoc
-Generate a Auto-Completions list for Sublime, specifically made for Hubdoc dev team
+# Sublime Generate Completion List
+Script to generate an Auto-Completions list for Sublime
